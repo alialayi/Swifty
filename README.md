@@ -25,7 +25,7 @@ You can check the antivirus result [here](https://www.virustotal.com/gui/file/3d
 
 ## 🖼 Images
 
-![pyrox vpn](https://github.com/DnsChanger/dnsChanger-desktop/assets/66132114/957ba956-af75-4c6f-b3a1-b604c9853e42)
+![pyrox vpn](https://github.com/alialayi/PyroxVPN/assets/main.png)
 
 # 🛡️ Privacy
 This app has analytics that will track the number of users and servers only and nothing more.
