@@ -8,7 +8,7 @@
     <br/>
 </p>
 
-This is an open-source DNS Changer for Windows, Mac, and Linux operating systems. Its goal is to gather the best DNS servers in a secure application.
+This is an open-source Pyrox VPN base on V2rayng for android.
 
 - [✍ Introduction](#-introduction)
   - [📥 Download](#-download)
