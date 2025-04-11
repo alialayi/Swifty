@@ -1,21 +1,11 @@
 # ✍ Introduction
 
 <p align="center">
-    <img src=".github/banner.png" alt="dnsChanger banner" width="600">
-</p>
-
-<p align="center">
-    <a href="https://discord.gg/p9TZzEV39e" target="_blank">
-         <img src="https://discordapp.com/api/guilds/1088561568272367777/widget.png?style=banner2" alt="total" >
-    </a>
     <br/>
-    <img src="https://img.shields.io/github/languages/top/DnsChanger/dnsChanger-desktop" alt="languages" >
-    <img src="https://img.shields.io/github/stars/dnsChanger/dnsChanger-desktop" alt="stars">
-    <img src="https://img.shields.io/github/downloads/DnsChanger/dnsChanger-desktop/total.svg" alt="total" >
+    <img src="https://img.shields.io/badge/kotlin-100%25-orange?label=kotlin" alt="languages" >
     <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square" alt="prettier" >
     <img src="https://img.shields.io/badge/antivirus-PASS-green" alt="antivirus" >
     <br/>
-    <a href="https://daramet.com/sajjadmrx"><img  width=100 src="https://github.com/DnsChanger/dnsChanger-desktop/assets/66132114/68885be1-a4fd-434a-a6d9-9f62661b69db" /></a>
 </p>
 
 This is an open-source DNS Changer for Windows, Mac, and Linux operating systems. Its goal is to gather the best DNS servers in a secure application.
