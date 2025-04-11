@@ -27,7 +27,7 @@ This is an open-source DNS Changer for Windows, Mac, and Linux operating systems
 
 ## 📥 Download
 
-Please visit the [releases](https://github.com/DnsChanger/dnsChanger-desktop/releases) section.
+Please visit the [releases](https://github.com/PyroxVPN/releases) section.
 
 ## 🦠 Antivirus Result
 
