@@ -25,7 +25,7 @@ You can check the antivirus result [here](https://www.virustotal.com/gui/file/3d
 
 ## 🖼 Images
 
-![pyrox vpn](https://github.com/alialayi/PyroxVPN/assets/main.png)
+![pyrox vpn](https://github.com/alialayi/PyroxVPN/assets/main)
 
 # 🛡️ Privacy
 This app has analytics that will track the number of users and servers only and nothing more.
