@@ -17,7 +17,20 @@ This is an open-source Pyrox VPN base on V2rayng for android.
 
 ## 📥 Download
 
-Please visit the [releases](https://github.com/alialayi/PyroxVPN/releases) section.
+<div align=left>
+<table>
+    <tbody align=left>
+        <tr>
+        <td>Android</td>
+            <td>
+                <a href="https://github.com/alialayi/pyroxvpn/releases/latest/download/app-universal-release.apk"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"></a><br>
+                <a href="https://github.com/alialayi/pyroxvpn/releases/latest/download/app-arm64-v8a-release.apk"><img src="https://img.shields.io/badge/APK-ARMv8-168039.svg?logo=android"></a><br>
+                <a href="https://github.com/alialayi/pyroxvpn/releases/latest/download/app-armeabi-v7a-release.apk"><img src="https://img.shields.io/badge/APK-ARMv7-45bf55.svg?logo=android"></a><br>
+                <a href="https://github.com/alialayi/pyroxvpn/releases/latest/download/app-x86_64-release.apk"><img src="https://img.shields.io/badge/APK-x64-96ed89.svg?logo=android"></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## 🦠 Antivirus Result
 
