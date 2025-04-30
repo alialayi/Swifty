@@ -21,7 +21,7 @@ Please visit the [releases](https://github.com/alialayi/PyroxVPN/releases) secti
 
 ## 🦠 Antivirus Result
 
-You can check the antivirus result [here](https://www.virustotal.com/gui/file/3d50c66394a4b620ce874b0520db73a5049ec42142f262c9460d6cdb72e74fe3?nocache=1).
+You can check the antivirus result [here](https://www.virustotal.com/gui/file/e1ec41f9fb01d51ec95d70b58404bdee2f524ebe809ef149242c8458aea6db71).
 
 ## 🖼 Images
 
