@@ -19,6 +19,12 @@ This is an open-source Pyrox VPN base on V2rayng for android.
 
 <div align=left>
 <table>
+    <thead align=left>
+        <tr>
+            <th>OS</th>
+            <th>Download</th>
+        </tr>
+    </thead>
     <tbody align=left>
         <tr>
         <td>Android</td>
